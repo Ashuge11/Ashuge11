@@ -42,8 +42,9 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="50" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+ <img src="https://img.icons8.com/color/96/sql.png" width="48" alt="SQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="48" alt="Power BI"/>
 </p>
 
 ---
