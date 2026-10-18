@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.icons8.com/color/96/sql.png" width="48" alt="SQL"/>
+ <img src="[https://img.icons8.com/color/96/sql.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohJ11WK_fNsNXbZI8z60nM8zZjGf8i0gNlp2UhaFyrQ&s=10)" width="48" alt="SQL"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/96/power-bi.png" width="48" alt="Power BI"/>
 </p>
