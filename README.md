@@ -33,7 +33,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="C, C++, Java, Python, JavaScript"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" alt="HTML, CSS, React, Node.js, Express, MongoDB, MySQL"/>
@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" alt="Git, GitHub, VS Code, Postman, Jupyter"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </p>
