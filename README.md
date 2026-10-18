@@ -55,7 +55,7 @@
 - Object-Oriented Programming
 - DBMS and SQL
 - REST API Development
-- Authentication & Authorization
+
 - Machine Learning Fundamentals
 
 ---
@@ -66,7 +66,6 @@
 - Backend architecture and API design
 - Machine learning algorithms
 - Open-source contribution workflows
-- Technical communication and interview preparation
 
 ---
 
