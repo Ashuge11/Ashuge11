@@ -47,10 +47,8 @@ My goal is to become a skilled Software Development Engineer by consistently lea
 - 💻 Learning full-stack web development with the MERN stack.
 - ☕ Practicing Data Structures and Algorithms using Java.
 - 🐍 Exploring Python, SQL, and machine learning.
-- 📊 Learning data analysis and Power BI.
 - 🤖 Interested in AI integration and AI agents.
 - 🌱 Exploring open-source contributions and collaborative development.
-- 🧠 Improving my problem-solving, communication, and technical interview skills.
 - 🎯 Goal: Secure a software development internship and grow into a Software Development Engineer (SDE).
 
 ---
@@ -97,13 +95,9 @@ My approach is to understand the concept, dry-run examples, solve problems indep
 ## 🌱 Currently Learning
 
 - Full-stack web development with MERN.
-- Backend development and REST API design.
-- Authentication and authorization.
 - Machine learning algorithms and model evaluation.
-- Data analysis and Power BI.
 - AI integration and AI agent fundamentals.
-- Git, GitHub, and open-source contribution workflows.
-- Technical communication and interview preparation.
+- open-source contribution workflows.
 
 ---
 
@@ -130,10 +124,8 @@ I look forward to learning from the community and making meaningful contribution
 ## 🤝 Let's Connect
 
 - 💻 **GitHub:** [Ashuge11](https://github.com/Ashuge11)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL here.
-- 🧩 **LeetCode:** Add your LeetCode profile URL here.
-- 📧 **Email:** Add your professional email address here.
-
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ashvini-sundge-14518734utm_source=share_via&utm_content=profile&utm_medium=member_android.
+- 📧 **Email:** ashvinisundge@gmail.com
 ---
 
 ### 💫 My Philosophy
