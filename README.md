@@ -1,4 +1,4 @@
-                                          #👋 Hi, I'm Ashvini Nagnath Sundge
+<h1 align="center">👋 Hi, I'm Ashvini Sundge</h1>                                                   
 
 <h3 align="center">Aspiring Software Engineer • MERN Stack • Machine Learning Enthusiast</h3>
 
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="50" alt="Power BI"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 </p>
 
