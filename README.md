@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ashvini Sundge</h1>                                                   
 
-<h3 align="center">Aspiring Software Engineer • MERN Stack • Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer • MERN Stack • Machine Learning  AND Model Prediction</h3>
 
 <p align="center">
   Building my skills in software development, problem-solving, and intelligent applications.
